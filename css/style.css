@@ -167,6 +167,16 @@ textarea {
     border-bottom: 1px solid #f4f4f4;
     border-color: ease-in-out .15s, box-shadow ease-in-out .15s;
 }
+
+.icons-footer {
+    width: 25px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.flex {
+    display: flex;
+}
 input:focus,
 textarea:focus {
     border-bottom-width: 1px;
@@ -4047,6 +4057,8 @@ hr.border-2 {
     background: transparent;
     color: #b19777;
 }
+
+
 .main-footer .fothead h6 {
     margin-bottom: 0px;
     font-family: 'Oswald', sans-serif;
